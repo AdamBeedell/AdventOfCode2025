@@ -17,11 +17,7 @@ for line in inpoot:
 
 inputpadded.append(botpad)
 
-
 #for line in inputpadded: print(line)
-
-
-
 
 def eightwaysearch(y,x,find,map):
     result=0
